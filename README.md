@@ -1,1 +1,1 @@
-This a project on CRUD application
+This is a project on CRUD application
